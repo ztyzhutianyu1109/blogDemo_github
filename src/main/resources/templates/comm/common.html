@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--顶部导航栏-->
+<div th:fragment="navbar">
+    <div class="header">
+    </div>
+    <header class="gird-header">
+        <div class="header-fixed">
+            <div class="header-inner">
+                <a href="javascript:void(0)" class="header-logo" id="logo">Mr.Zty</a>
+                <nav class="nav" id="nav">
+                    <ul>
+                        <li><a th:href="@{/index}">首页</a></li>
+                        <li><a th:href="@{/article}">博客</a></li>
+                        <li><a th:href="@{/message}">留言</a></li>
+                        <li><a th:href="@{/diary}">日记</a></li>
+                        <li><a th:href="@{/link}">友链</a></li>
+                    </ul>
+                </nav>
+                <a  onclick='toLogin()' class="blog-user">
+                    <i class="fa fa-qq"></i>
+                </a>
+                <a class="phone-menu">
+                    <i></i>
+                    <i></i>
+                    <i></i>
+                </a>
+            </div>
+        </div>
+    </header>
+</div>
+
+<!--底部内容-->
+<div th:fragment="buttonbar">
+    <footer class="grid-footer">
+        <div class="footer-fixed">
+            <div class="copyright">
+                <div class="info">
+                    <div class="contact">
+                        <a href="https://github.com/ztyzhutianyu1109" class="github" target="_blank"><i class="fa fa-github"></i></a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&uin=1659770218&site=qq&menu=yes" class="qq" target="_blank" title="1659770218"><i class="fa fa-qq"></i></a>
+                        <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=FSQjICwiIiUnJC1VZGQ7dnp4" class="email" target="_blank" title="1659770218@qq.com"><i class="fa fa-envelope"></i></a>
+                        <a href="javascript:void(0)" class="weixin"><i class="fa fa-weixin"></i></a>
+                    </div>
+                    <p class="mt05">
+                        天宇宇宇宇宇~记录美好生活~天宇宇宇宇宇 备案号 豫ICP备2020028609号
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+</html>

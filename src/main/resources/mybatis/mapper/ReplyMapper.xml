@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ty.mapper.ReplyMapper">
+
+    <select id="getAll" resultType="com.ty.pojo.Reply">
+        SELECT * FROM `tab_reply` ORDER BY reply_date
+    </select>
+</mapper>
