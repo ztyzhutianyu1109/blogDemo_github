@@ -19,7 +19,786 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bbc5704-5b0b-4260-a458-4c6efeb0835e" name="Default Changelist" comment="" />
+    <list default="true" id="6bbc5704-5b0b-4260-a458-4c6efeb0835e" name="Default Changelist" comment="第一次提交(目前项目完成进度)">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_gplatform_Sdk4J_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/qqconnectconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/qqsuccess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blogdemo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/ArticleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/DiaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/MessageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/ReadMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/ReplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/BUGS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/CHANGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/Gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.logo.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.preview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/css/editormd.preview.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/editormd.amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/editormd.amd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/editormd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/editormd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/editormd-logo.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/editormd-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/editormd-logo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/editormd-logo.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/loading@3x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-favicon-16x16.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-favicon-24x24.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-favicon-32x32.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-favicon-48x48.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-favicon-64x64.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-240x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-24x24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-320x320.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/editormd-logo-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/images/logos/vi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/languages/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/languages/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/comment/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/comment/continuecomment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/dialog/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/dialog/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/display/fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/display/fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/display/panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/display/placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/display/rulers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/closebrackets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/closetag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/continuelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/matchbrackets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/matchtags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/edit/trailingspace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/brace-fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/comment-fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/foldcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/foldgutter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/foldgutter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/indent-fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/markdown-fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/fold/xml-fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/anyword-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/css-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/html-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/javascript-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/show-hint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/show-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/sql-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/hint/xml-hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/coffeescript-lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/css-lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/javascript-lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/json-lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/lint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/lint/yaml-lint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/merge/merge.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/merge/merge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/mode/loadmode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/mode/multiplex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/mode/multiplex_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/mode/overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/mode/simple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/runmode/colorize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/runmode/runmode-standalone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/runmode/runmode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/runmode/runmode.node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/scroll/annotatescrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/scroll/scrollpastend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/scroll/simplescrollbars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/scroll/simplescrollbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/search/match-highlighter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/search/matchesonscrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/search/matchesonscrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/search/searchcursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/selection/active-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/selection/mark-selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/selection/selection-pointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/tern/tern.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/tern/tern.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/tern/worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addon/wrap/hardwrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/addons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/codemirror.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/lib/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/lib/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/apl/apl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/apl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/asterisk/asterisk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/asterisk/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/clike/clike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/clike/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/clike/scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/clojure/clojure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/clojure/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/cobol/cobol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/cobol/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/coffeescript/coffeescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/coffeescript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/commonlisp/commonlisp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/commonlisp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/less.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/less_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/scss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/scss_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/css/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/cypher/cypher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/cypher/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/d/d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/d/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dart/dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/diff/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/diff/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/django/django.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/django/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dockerfile/dockerfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dockerfile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dtd/dtd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dtd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dylan/dylan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/dylan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ebnf/ebnf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ebnf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ecl/ecl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ecl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/eiffel/eiffel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/eiffel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/erlang/erlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/erlang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/forth/forth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/forth/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/fortran/fortran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/fortran/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gas/gas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gfm/gfm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gfm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gfm/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gherkin/gherkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/gherkin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/go/go.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/go/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/groovy/groovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/groovy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haml/haml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haml/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haml/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haskell/haskell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haskell/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haxe/haxe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/haxe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/htmlembedded/htmlembedded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/htmlembedded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/htmlmixed/htmlmixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/htmlmixed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/http/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/http/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/idl/idl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/idl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/jade/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/jade/jade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/javascript/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/javascript/json-ld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/javascript/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/javascript/typescript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/jinja2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/jinja2/jinja2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/julia/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/julia/julia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/kotlin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/kotlin/kotlin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/livescript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/livescript/livescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/lua/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/lua/lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/markdown/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/markdown/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/markdown/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/meta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/mirc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/mirc/mirc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/mllike/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/mllike/mllike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/modelica/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/modelica/modelica.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/nginx/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/nginx/nginx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ntriples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ntriples/ntriples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/octave/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/octave/octave.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pascal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pascal/pascal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pegjs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pegjs/pegjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/perl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/perl/perl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/php/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/php/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/php/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pig/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/pig/pig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/properties/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/properties/properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/puppet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/puppet/puppet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/python/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/python/python.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/q/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/q/q.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/r/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/r/r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rpm/changes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rpm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rpm/rpm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rst/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rst/rst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ruby/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ruby/ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/ruby/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rust/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/rust/rust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sass/sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/scheme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/scheme/scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/shell/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/shell/shell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/shell/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sieve/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sieve/sieve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/slim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/slim/slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/slim/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smalltalk/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smalltalk/smalltalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smarty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smarty/smarty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smartymixed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/smartymixed/smartymixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/solr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/solr/solr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/soy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/soy/soy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sparql/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sparql/sparql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/spreadsheet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/spreadsheet/spreadsheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sql/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/sql/sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/stex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/stex/stex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/stex/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/stylus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/stylus/stylus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tcl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tcl/tcl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/textile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/textile/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/textile/textile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiddlywiki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiddlywiki/tiddlywiki.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiddlywiki/tiddlywiki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiki/tiki.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tiki/tiki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/toml/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/toml/toml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tornado/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/tornado/tornado.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/turtle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/turtle/turtle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/vb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/vb/vb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/vbscript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/vbscript/vbscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/velocity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/velocity/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/verilog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/verilog/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/verilog/verilog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xml/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xml/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xml/xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xquery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xquery/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/xquery/xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/yaml/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/yaml/yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/z80/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/mode/z80/z80.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/modes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/3024-day.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/3024-night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/ambiance-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/ambiance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/base16-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/base16-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/blackboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/cobalt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/colorforth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/eclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/elegant.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/erlang-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/lesser-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/mbo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/mdn-like.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/midnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/monokai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/neo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/paraiso-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/paraiso-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/pastel-on-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/rubyblue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/solarized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/the-matrix.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/tomorrow-night-bright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/tomorrow-night-eighties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/twilight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/vibrant-ink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/xq-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/xq-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/codemirror/theme/zenburn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/flowchart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/jquery.flowchart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/marked.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/prettify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/raphael.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/sequence-diagram.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/lib/underscore.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/code-block-dialog/code-block-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/emoji-dialog/emoji-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/emoji-dialog/emoji.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/goto-line-dialog/goto-line-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/help-dialog/help-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/help-dialog/help.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/html-entities-dialog/html-entities-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/html-entities-dialog/html-entities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/image-dialog/image-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/link-dialog/link-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/plugin-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/preformatted-text-dialog/preformatted-text-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/reference-link-dialog/reference-link-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/table-dialog/table-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/plugins/test-plugin/test-plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.codemirror.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.dialog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.preview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.preview.themes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.tab.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/editormd.themes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/github-markdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/lib/prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/lib/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/scss/prettify.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/editormd/src/editormd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/attach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/bg/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/bg/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/bg/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/bg/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/bg/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-adjust@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-apple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-balance@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-beaker@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-beer@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-books@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-box@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-cake@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-calcuLator@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-camera@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-cd@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-certified@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-champagne@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-chart@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-chat@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-cheese@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-commerce@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-court@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-delivery@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-document@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-dvd@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-eco@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-film@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-grape@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-hot@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-house@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-icecream@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-illustration@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-joystick@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-keynote@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-like@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-link@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-magic@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-mail@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-map@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-mediation@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-microphone@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-network@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-notes@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-palette@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-pig@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-plaster@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-player@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-polaroid@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-printer@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-pulse@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-quote@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-radio@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-recorder@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-scissors@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-search@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-serving@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-share@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-shop@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-shopping@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-smartphone@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-social@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-sofa@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-syringe@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-tags@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-tape@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-target@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-team@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-television@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-time@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-upload@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-vector@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-video@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-walkman@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-winner@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-works@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/icons/bg-zoom@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/images/small/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/js/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/js/install.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/js/jquery.app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/jquery-multi-select/img/switch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/jquery-multi-select/jquery.quicksearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/jquery.steps/demo/css/jquery.steps.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/img/editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/jquery.scrollto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/md.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/pagedown-extra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/md/js/pagedown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/select2.dist.css/select2-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/select2.dist.css/select2-spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/select2.dist.css/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/select2.dist.css/select2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/select2.dist.css/select2x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/tagsinput/jquery.tagsinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/tagsinput/jquery.tagsinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/admin/plugins/toggles/toggles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/gloable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/index_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/nprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/barbarahand-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/barbarahand-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/barbarahand-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/barbarahand-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/barbarahand-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/lg.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/lg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/lg.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/lg.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/2018415193031394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/201842415510280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/bg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/cover/2018416205043154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/cover/2019121192339714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/page/shareicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/page/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/tifa/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/pagecomment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/pagediary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/pagemessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/plugins/blogbenoitboucart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/plugins/nprogress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/plugins/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/yss/APlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/yss/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/yss/gloable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/test/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/test/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/article_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/article_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/attach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/comment_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/page_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/page_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/setting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/diary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/read.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/blog/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/comm/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/comm/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/comm/tale_comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/error/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/blog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/site/works-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.ty.BlogdemoApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.ty.BlogdemoApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ty/controller/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ty/controller/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/comm/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/comm/common.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +807,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="MP Mapper XML" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,34 +832,35 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.26436782" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static" />
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\image" />
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\image\tifa" />
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\templates" />
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\java\com\ty\controller" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\templates\blog" />
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ty.common.util" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\templates\blog" />
-      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources" />
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static" />
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\image" />
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\static\image\tifa" />
+      <recent name="C:\Users\Z1776\Desktop\SpringBoot项目\blogdemo\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.BlogdemoApplication">
@@ -160,8 +940,17 @@
       <workItem from="1601869054661" duration="111000" />
       <workItem from="1601869187484" duration="21000" />
       <workItem from="1601869232109" duration="519000" />
-      <workItem from="1601879014949" duration="2479000" />
+      <workItem from="1601879014949" duration="3774000" />
+      <workItem from="1601944950216" duration="3505000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交(目前项目完成进度)">
+      <created>1601903991057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601903991057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,13 +959,60 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交(目前项目完成进度)" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交(目前项目完成进度)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="291" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600310113234">
@@ -203,42 +1039,46 @@
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="619" y="317" width="436" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1676.902@0.0.1676.902" timestamp="1601868920692" />
+    <state x="457" y="19" key="CommitChangelistDialog2" timestamp="1601903987041">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="457" y="19" key="CommitChangelistDialog2/0.0.1676.902@0.0.1676.902" timestamp="1601903987041" />
     <state x="617" y="205" key="FileChooserDialogImpl" timestamp="1601869093540">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="617" y="205" key="FileChooserDialogImpl/0.0.1676.902@0.0.1676.902" timestamp="1601869093540" />
-    <state width="1632" height="252" key="GridCell.Tab.0.bottom" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.0.bottom" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.0.center" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.0.center" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.0.left" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.0.left" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.0.right" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.0.right" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.1.bottom" timestamp="1601903017092">
+    <state width="1632" height="252" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.1.bottom" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.1.bottom/0.0.1676.902@0.0.1676.902" timestamp="1601903017092" />
-    <state width="1632" height="252" key="GridCell.Tab.1.center" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.1.bottom/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.1.center" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.1.center/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.1.left" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.1.center/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.1.left" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.1.left/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
-    <state width="1632" height="252" key="GridCell.Tab.1.right" timestamp="1601903017091">
+    <state width="1632" height="252" key="GridCell.Tab.1.left/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
+    <state width="1632" height="252" key="GridCell.Tab.1.right" timestamp="1601953954512">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state width="1632" height="252" key="GridCell.Tab.1.right/0.0.1676.902@0.0.1676.902" timestamp="1601903017091" />
+    <state width="1632" height="252" key="GridCell.Tab.1.right/0.0.1676.902@0.0.1676.902" timestamp="1601953954512" />
     <state width="1632" height="329" key="GridCell.Tab.2.bottom" timestamp="1600165874575">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
@@ -259,10 +1099,10 @@
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="273" y="212" key="Maven.ArtifactSearchDialog/0.0.1676.902@0.0.1676.902" timestamp="1600574015253" />
-    <state x="346" y="51" key="SettingsEditor" timestamp="1601879130455">
+    <state x="346" y="51" key="SettingsEditor" timestamp="1601953256870">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="346" y="51" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1601879130455" />
+    <state x="346" y="51" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1601953256870" />
     <state x="417" y="105" key="com.intellij.database.dbimport.ImportDialog" timestamp="1600483402419">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
